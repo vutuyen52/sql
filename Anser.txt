@@ -1,0 +1,11 @@
+Create table Nhan_Vien (
+  STT interger,
+  PhongBan Varchat(3),
+  MaNhanVien Varchar (6),
+  HoTen Varchar (50),
+  ChucVu Varchar (30),
+  QuanLy Varchar (30),
+  MucLuong interger,
+  NgaySinh date
+  )
+  Drop table Nhan_Vien
